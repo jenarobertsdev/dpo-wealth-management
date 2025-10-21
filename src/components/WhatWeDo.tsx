@@ -20,7 +20,10 @@ const WhatWeDo: React.FC = () => {
               </div>
 
               {/* Title */}
-              <h2 className="text-2xl md:text-3xl font-bold text-blue-900 mb-4">
+              <h2
+                className="text-2xl md:text-3xl font-bold mb-4"
+                style={{ color: "#093c73" }}
+              >
                 What We Do
               </h2>
 
