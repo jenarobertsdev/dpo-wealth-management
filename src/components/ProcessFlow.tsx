@@ -111,11 +111,6 @@ const ProcessFlow: React.FC = () => {
         <div className="space-y-8">
           {steps.map((step, index) => (
             <div key={index} className="relative">
-              {/* Step Number */}
-              <div className="absolute -left-2 -top-2 w-10 h-10 bg-gray-800 text-white rounded-full flex items-center justify-center text-sm font-bold z-10 shadow-lg">
-                {index + 1}
-              </div>
-
               {/* Arrow Banner */}
               <div
                 className={`bg-gradient-to-r ${step.color} text-white px-4 sm:px-6 py-3 sm:py-4 text-sm sm:text-lg font-bold rounded-t-lg ml-6 shadow-md`}

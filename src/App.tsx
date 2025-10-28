@@ -6,6 +6,7 @@ import OurProcess from "./components/OurProcess";
 import OurServices from "./components/OurServices";
 import LocationSection from "./components/LocationSection";
 import Footer from "./components/Footer";
+import BrokerCheck from "./components/BrokerCheck";
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
       </section>
       <LocationSection />
       <Footer />
+      <BrokerCheck />
     </div>
   );
 }
