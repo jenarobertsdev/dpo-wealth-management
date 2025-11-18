@@ -55,10 +55,6 @@ const TeamSection: React.FC = () => {
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
             Our Team
           </h2>
-          <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Meet the experienced professionals dedicated to helping you achieve
-            your financial goals
-          </p>
         </div>
 
         {/* Team Grid */}
