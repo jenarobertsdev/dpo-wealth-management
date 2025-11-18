@@ -4,6 +4,7 @@ import ExplainerVideo from "./components/ExplainerVideo";
 import WhatWeDo from "./components/WhatWeDo";
 import OurProcess from "./components/OurProcess";
 import OurServices from "./components/OurServices";
+import TeamSection from "./components/TeamSection";
 import LocationSection from "./components/LocationSection";
 import Footer from "./components/Footer";
 import BrokerCheck from "./components/BrokerCheck";
@@ -25,6 +26,7 @@ function App() {
       <section id="services">
         <OurServices />
       </section>
+      <TeamSection />
       <LocationSection />
       <Footer />
       <BrokerCheck />
