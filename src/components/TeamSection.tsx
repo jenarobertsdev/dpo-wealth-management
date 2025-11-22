@@ -13,37 +13,37 @@ const TeamSection: React.FC = () => {
       name: "Dianne Odom",
       title: "CPA, PFS, Investment Advisor",
       bio: "Dianne offers an all-inclusive approach to financial management, integrating investment and tax strategies to create comprehensive financial plans. With more than 25 years of experience in tax preparation and as an Investment Advisor with J.W. Cole Financial, LLC, she holds Series 7, 63, and 65 securities licenses and is registered with the AICPA as a Personal Financial Specialist (PFS). A native of Irmo, South Carolina, Dianne earned her Bachelor of Science in Business Administration with an emphasis in Accounting from the University of South Carolina.",
-      image: "/team/dianne-odom.jpg",
+      image: "/dianna.png",
     },
     {
       name: "Karen K. Roberts",
       title: "CLU®, ChFC® — Wealth Planning Specialist",
       bio: "With more than 30 years of experience, Karen is dedicated to empowering women to take control of their financial futures. She has shared her expertise as a keynote speaker at industry conferences and on national programs, and had the honor of ringing the New York Stock Exchange Opening Bell. Karen holds a degree in Economics from California State University, Northridge, and has earned both the CLU® and ChFC® designations from The American College of Financial Services.",
-      image: "/team/karen-roberts.jpg",
+      image: "/karen.png",
     },
     {
       name: "Beatrice Polak",
       title: "Executive Portfolio Manager",
       bio: "Beatrice joined DPO Wealth Management in 2014 and oversees investment operations, research, and asset allocation strategy. She graduated magna cum laude from the University of Nebraska Omaha with a B.S. in Business Administration (Finance) and gained valuable experience in equity trading and wealth management through roles at TD Ameritrade and an independent Registered Investment Advisor. She holds FINRA Series 7, 63, and 65 licenses.",
-      image: "/team/beatrice-polak.jpg",
+      image: "/beatrice.png",
     },
     {
       name: "Janie Ammerman",
       title: "Administrative Assistant",
       bio: "Janie joined DPO Wealth in 2025 as our Administrative Assistant, bringing years of experience in bookkeeping, tax, and office administration. A veteran of the USAF, she honed her organizational skills and gained valuable experience working for various credit unions, financial loan companies, and CPA firms in California and Washington state.",
-      image: "/team/janie-ammerman.jpg",
+      image: "/janie.jpg",
     },
     {
       name: "Karrie Holloway",
       title: "Client Service Associate",
       bio: "With over 25 years of experience in the financial industry, Karrie is dedicated to providing exceptional service and building lasting relationships with clients. Her attention to detail and commitment to helping clients achieve their financial goals make her a valued member of the DPO Wealth Management team.",
-      image: "/team/karrie-holloway.jpg",
+      image: "/karrie.jpg",
     },
     {
       name: "Stephanie Magee",
       title: "FL Office Manager",
       bio: "Stephanie began her career in the financial industry in 2016 and has since developed a strong foundation in client service, office administration, and operational support. As Office Manager, she oversees the firm's daily workflow, coordinates client scheduling, and ensures that every interaction is handled with efficiency and care.",
-      image: "/team/stephanie-magee.jpg",
+      image: "/stephanie.png",
     },
   ];
 
